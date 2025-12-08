@@ -1,11 +1,21 @@
 # JS Documentation
 
-This is a technical JS documentation page created using **HTML** and **CSS** given by our teachers at **Rebase Code Camp**. The page explains JS documentation with bookmark reference. having well explain example.
+This is a technical JS documentation page created using **HTML** and **CSS** given by our teachers at **Rebase Code Camp**. The page explains JS documentation with bookmark reference. having a well example view.
 
 ---
 
 ## Preview and How to use
 (open `index.html` or the deployed link to view the technical documentation)
+- Deployed link: [https://kb-web237.github.io/technical-documentation/]
+
+## Folder Structure
+```text
+.technicaldocuwe
+|___asssets/image/image.png
+|___styles/index.css
+|____index.html
+
+```
 ## Example Output of the JS documentation
 ![Terminal Output](assets/images/image.png)
 
