@@ -10,7 +10,7 @@ This is a technical JS documentation page created using **HTML** and **CSS** giv
 
 ## Folder Structure
 ```text
-.technicaldocuwe
+.technicaldocweb
 |___asssets/image/image.png
 |___styles/index.css
 |____index.html
