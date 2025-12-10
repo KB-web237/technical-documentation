@@ -3,10 +3,10 @@
   line-height: 1.6;
 }
 
-a:link,
-a:active,
-a:hover,
-a:visited {
+nav a:link,
+nav a:active,
+nav a:hover,
+nav a:visited {
   color: rgb(73 73 73);
   text-decoration: none;
   margin-left: 1.2rem;
@@ -17,9 +17,8 @@ a:visited {
   margin: -1.7rem 0;
 }
 
-#jxlink {
-  color: blue;
-  margin-left: 1px;
+p {
+  margin-left: 2.5rem;
 }
 
 header {
